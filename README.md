@@ -57,5 +57,9 @@ data_cleaning_master('sales_data.xlsx', 'Sales Dataset')</code></pre>
     <h2>📌 Conclusion</h2>
     <p>The <strong>Data Cleaning Master</strong> project provides a streamlined and user-friendly solution for cleaning datasets, which is crucial in the field of data science and analytics. By automating tasks like removing duplicates and handling missing values, this application saves time and ensures data is ready for analysis. With its simple input process and easy-to-understand output, it empowers users to focus on analyzing clean data rather than worrying about the tedious steps of data cleaning.</p>
     <p>This project showcases the power of Python libraries such as <code>pandas</code> and <code>numpy</code> in handling data efficiently. It is ideal for beginners looking to understand data cleaning concepts as well as professionals seeking a quick tool to preprocess datasets. Happy Cleaning! 🧽✨</p>
+     <h2>👥 Credits</h2>
+    <p>Built by <a href="https://github.com/100rabhhh">Sourabh Jha</a></p>
+    <h2>📄 License</h2>
+    <p>This project is licensed under the MIT License.</p>
 </body>
 </html>
